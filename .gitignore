@@ -1,5 +1,6 @@
 # data folders
 dogImages/
+lfw/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
