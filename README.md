@@ -1,5 +1,7 @@
 # Dog Breed Classifier in PyTorch
-This is a repo for the Project 2 in Udacity
+This is a repo for the Dog Breed Classifier Project  in Udacity
+
+It is implemented by using PyTorch library.
 
 
 
